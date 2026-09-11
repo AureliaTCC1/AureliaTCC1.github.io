@@ -52,7 +52,7 @@ O Aurélia une as duas pontas dessa rotina em um único sistema:
 | --- | --- |
 | App mobile | React Native (Expo) |
 | Backend | Node.js, Firebase |
-| Inteligência artificial | Groq API (LLaMA 3) |
+| Inteligência artificial | Groq API |
 | Hardware / geofencing | ESP32, GPS NEO-6M |
 | Landing page (este repositório) | HTML5, CSS3, JavaScript |
 
@@ -70,7 +70,7 @@ O Aurélia une as duas pontas dessa rotina em um único sistema:
 
 ### Logotipo
 
-Letra "A" em teal com um acento circular lavanda no cruzamento do traço, representando a
+Letra "A" em ciano com um acento circular lavanda no cruzamento do traço, representando a
 conexão entre as duas jornadas do sistema.
 
 ### Paleta de cores
@@ -89,8 +89,7 @@ conexão entre as duas jornadas do sistema.
 
 ### Tipografia
 
-Fonte **Inter**, nos pesos 400 (texto), 500 (subtítulos), 600 e 700 (títulos e destaques),
-com fallback para as fontes padrão do sistema.
+Fonte **Inter**, nos pesos 400 (texto), 500 (subtítulos), 600 e 700 (títulos e destaques).
 
 ## 🔗 Landing page
 
